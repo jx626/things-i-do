@@ -1,1 +1,2 @@
 # things-i-do
+<p>A website loaded with my gibberish, using basic HTML skills such as setting character set, inserting text and pics, making the letters bolder and shakier, giving it the magic link so that you don't have to open several tabs, or no tab at all, and so on so forth.</p>
