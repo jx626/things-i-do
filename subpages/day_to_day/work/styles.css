@@ -1,19 +1,16 @@
 body{
     margin-left: 1em;
-    display: flexbox;
+    display: flex;
+    flex-direction: column;
 }
 
 .h1-body {
     font-size: large;
-    flex: 1;
-    
-
 }
 .quote {
-    padding: 2em;
+    padding: 1em;
     background-color: #f8f8f8;
     border-left: 1em solid rgb(181, 180, 180);
     display: inline-flex;
-    flex:content;
     
 }
